@@ -1,6 +1,6 @@
 {
   "name": "ensembles",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return an array of ensembles based on the given ensemble and gap",
   "main": "index.js",
   "scripts": {
