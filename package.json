@@ -1,0 +1,24 @@
+{
+  "name": "ensembles",
+  "version": "0.0.0",
+  "description": "Return an array of ensembles based on the given ensemble and gap",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "devDependencies" : {
+    "tap" : "~0.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lbdremy/node-ensembles.git"
+  },
+  "keywords": [
+    "ensemble",
+    "gap",
+    "interval",
+    "generation"
+  ],
+  "author": "Rémy Loubradou <remyloubradou@gmail.com>",
+  "license": "MIT"
+}
